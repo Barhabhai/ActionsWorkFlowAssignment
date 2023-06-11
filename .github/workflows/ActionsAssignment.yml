@@ -1,1 +1,27 @@
+name: Jekyll Build on Pull Request
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+        ruby-version: 2.7
+    
+    - name: Install dependencies
+      run: bundle install
+    
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
 
