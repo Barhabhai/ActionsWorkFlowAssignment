@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Types of AI!"
+date:   2023-06-09 04:03:56 +0500
+categories: jekyll update
+---
+**Types of AI:**
+
+**Reactive Machines:** These AI systems can only react to current situations based on pre-programmed rules and do not possess memory or the ability to learn. They don't have the capability to form an understanding of the world beyond the present moment.
+
+**Limited Memory AI:** These systems can make decisions based on both current information and a limited memory of past experiences. They can adapt their behavior to some extent by learning from historical data.
+
+**Theory of Mind AI:** This type of AI aims to understand human emotions, beliefs, and intentions. It focuses on developing machines that can interact and empathize with humans on a deeper level.
+
+**Self-Aware AI:** Self-aware AI refers to systems that have consciousness and possess a sense of self. This type of AI understands its own existence, emotions, and capabilities, leading to higher-level reasoning and decision-making abilities.

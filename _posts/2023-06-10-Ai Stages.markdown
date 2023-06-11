@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Stages of Artificial Intelligence (AI)!"
+date:   2023-06-10 03:03:56 +0500
+categories: jekyll update
+---
+Stages of AI:
+
+**Artificial Narrow Intelligence (ANI):** This stage represents AI systems designed to perform specific tasks and outperform humans in those tasks. Examples include voice assistants, recommendation systems, and image recognition algorithms.
+
+**Artificial General Intelligence (AGI):** AGI refers to AI systems that possess human-level intelligence and can perform any intellectual task that a human being can do. AGI aims to exhibit flexibility, adaptability, and general problem-solving skills.
+
+**Artificial Superintelligence (ASI):** ASI represents AI systems that surpass human intelligence in almost every aspect. These hypothetical entities possess cognitive abilities far superior to humans and can potentially revolutionize science, technology, and society.

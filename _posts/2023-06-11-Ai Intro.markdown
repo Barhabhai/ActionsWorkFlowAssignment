@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Intro to Artificial Intelligence!"
+date:   2023-06-11 02:03:56 +0500
+categories: jekyll update
+---
+Introduction to AI:
+AI (Artificial Intelligence) refers to the development of computer systems capable of performing tasks that typically require human intelligence. It involves the creation of intelligent machines that can simulate human thinking, learning, and problem-solving. AI is a multidisciplinary field that combines computer science, mathematics, cognitive science, and more to enable machines to exhibit intelligent behavior.
